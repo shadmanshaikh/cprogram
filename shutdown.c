@@ -1,3 +1,4 @@
+//this only works on windows :thubsup:
 #include<stdio.h>
 void main()
 {
